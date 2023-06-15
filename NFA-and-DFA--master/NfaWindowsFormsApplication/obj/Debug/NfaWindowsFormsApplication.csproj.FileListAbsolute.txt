@@ -1,0 +1,36 @@
+C:\Users\MOMANI\Desktop\NFA-and-DFA-\NfaWindowsFormsApplication\bin\Debug\NfaWindowsFormsApplication.exe
+C:\Users\MOMANI\Desktop\NFA-and-DFA-\NfaWindowsFormsApplication\bin\Debug\NfaWindowsFormsApplication.exe.config
+C:\Users\MOMANI\Desktop\NFA-and-DFA-\NfaWindowsFormsApplication\bin\Debug\NfaAndDfa.dll
+C:\Users\MOMANI\Desktop\NFA-and-DFA-\NfaWindowsFormsApplication\bin\Debug\NfaAndDfa.pdb
+C:\Users\MOMANI\Desktop\NFA-and-DFA-\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\MOMANI\Desktop\NFA-and-DFA-\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.MainForm.resources
+C:\Users\MOMANI\Desktop\NFA-and-DFA-\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.NewMachineForm.resources
+C:\Users\MOMANI\Desktop\NFA-and-DFA-\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.Properties.Resources.resources
+C:\Users\MOMANI\Desktop\NFA-and-DFA-\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\MOMANI\Desktop\NFA-and-DFA-\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.exe
+C:\Users\MOMANI\Desktop\NFA-and-DFA-\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.pdb
+C:\Users\MOMANI\Desktop\NFA-and-DFA-\NfaWindowsFormsApplication\bin\Debug\NfaWindowsFormsApplication.pdb
+C:\Users\javeria\Downloads\NFA-and-DFA--master\NfaWindowsFormsApplication\bin\Debug\NfaWindowsFormsApplication.exe.config
+C:\Users\javeria\Downloads\NFA-and-DFA--master\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.exe
+C:\Users\javeria\Downloads\NFA-and-DFA--master\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.pdb
+C:\Users\javeria\Downloads\NFA-and-DFA--master\NfaWindowsFormsApplication\bin\Debug\NfaWindowsFormsApplication.exe
+C:\Users\javeria\Downloads\NFA-and-DFA--master\NfaWindowsFormsApplication\bin\Debug\NfaWindowsFormsApplication.pdb
+C:\Users\javeria\Downloads\NFA-and-DFA--master\NfaWindowsFormsApplication\bin\Debug\NfaAndDfa.dll
+C:\Users\javeria\Downloads\NFA-and-DFA--master\NfaWindowsFormsApplication\bin\Debug\NfaAndDfa.pdb
+C:\Users\javeria\Downloads\NFA-and-DFA--master\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\javeria\Downloads\NFA-and-DFA--master\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.MainForm.resources
+C:\Users\javeria\Downloads\NFA-and-DFA--master\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.NewMachineForm.resources
+C:\Users\javeria\Downloads\NFA-and-DFA--master\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.Properties.Resources.resources
+C:\Users\javeria\Downloads\NFA-and-DFA--master\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\javeria\Downloads\Automata Theory\NFA-and-DFA--master\NfaWindowsFormsApplication\bin\Debug\NfaWindowsFormsApplication.exe.config
+C:\Users\javeria\Downloads\Automata Theory\NFA-and-DFA--master\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.exe
+C:\Users\javeria\Downloads\Automata Theory\NFA-and-DFA--master\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.pdb
+C:\Users\javeria\Downloads\Automata Theory\NFA-and-DFA--master\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\javeria\Downloads\Automata Theory\NFA-and-DFA--master\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.MainForm.resources
+C:\Users\javeria\Downloads\Automata Theory\NFA-and-DFA--master\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.NewMachineForm.resources
+C:\Users\javeria\Downloads\Automata Theory\NFA-and-DFA--master\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.Properties.Resources.resources
+C:\Users\javeria\Downloads\Automata Theory\NFA-and-DFA--master\NfaWindowsFormsApplication\obj\Debug\NfaWindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\javeria\Downloads\Automata Theory\NFA-and-DFA--master\NfaWindowsFormsApplication\bin\Debug\NfaWindowsFormsApplication.exe
+C:\Users\javeria\Downloads\Automata Theory\NFA-and-DFA--master\NfaWindowsFormsApplication\bin\Debug\NfaWindowsFormsApplication.pdb
+C:\Users\javeria\Downloads\Automata Theory\NFA-and-DFA--master\NfaWindowsFormsApplication\bin\Debug\NfaAndDfa.dll
+C:\Users\javeria\Downloads\Automata Theory\NFA-and-DFA--master\NfaWindowsFormsApplication\bin\Debug\NfaAndDfa.pdb
